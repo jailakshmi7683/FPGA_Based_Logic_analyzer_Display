@@ -28,6 +28,3 @@ This project implements a compact 4-channel logic analyzer using a Xilinx Sparta
 
 ## 📸 Demo
 ![Simulation Screenshot](simulation_image.png)
-
-## 📄 License
-MIT License (or choose another)
